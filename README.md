@@ -5,7 +5,7 @@
 <br>
 <br>
 
-* [Completed Page](https://www.firefiber.github.io/RandomQuoteGenerator)
+* [Completed Page](https://firefiber.github.io/RandomQuoteGenerator)
 * [FCC Project](https://www.freecodecamp.org/challenges/build-a-random-quote-machine)
 
 
